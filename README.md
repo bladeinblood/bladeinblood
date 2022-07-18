@@ -1,3 +1,6 @@
+[<img align="left" alt = "Gif" width = "22px" src = "https://tenor.com/view/your-move-now-anya-taylor-joy-beth-harmon-the-queens-gambit-staring-gif-20433143">]
+
+
 ### blade in blood#9764
 
 ### Hello guys, i'm learnings python and disnake.py
