@@ -1,4 +1,4 @@
-<img align="left" alt = "Gif" width = "22px" src = "https://i.pinimg.com/originals/97/2d/30/972d30ea19333cb199193c2d41a9dac9.jpg">
+![HEADER](https://github.com/bladeinblood/bladeinblood/blob/main/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
 
 ### blade in blood#9764
